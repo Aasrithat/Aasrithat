@@ -38,7 +38,7 @@
    <tr>
      <td><img src="https://github-readme-stats.vercel.app/api?username=aasrithat&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
     </tr> 
-     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasrithat&theme=radical&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasrithat&theme=radical&&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
  </table>
 
  
