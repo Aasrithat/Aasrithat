@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aasritha</h1>
 <h3 align="center">I am an aspiring developer eager to embark on a journey in the dynamic world of technology.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aasrithat" alt="aasrithat" /></a> </p>
-
 - 🔭 I’m currently working on **HTML, CSS**
 
 - 🌱 I’m currently learning **Django**
