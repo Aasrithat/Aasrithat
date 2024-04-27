@@ -16,13 +16,13 @@
     <br><br>
     <a href="" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="60" height="60" /> </a> <!-- Moved HTML here -->
+            alt="html5" width="60" height="60" /> </a> 
     <a href="" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="60" height="60" /> </a> <!-- Moved CSS here -->
+            alt="css3" width="60" height="60" /> </a> 
     <br><br>
     <a href="/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sql"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="sql"
             width="60" height="60" /> </a>
 </p>
 <br></br>
