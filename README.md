@@ -21,11 +21,14 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="60" height="60" /> </a> <!-- Moved CSS here -->
     <br><br>
+    <a href="/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sql"
+            width="60" height="60" /> </a>
 </p>
 <br></br>
 <br></br>
 
- # Github Activity📊:
+ # My Github Activity📊:
  
  <table>
    <tr>
