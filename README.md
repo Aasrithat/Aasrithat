@@ -1,22 +1,15 @@
-<!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)  -->
 <h1 align="center">Hi 👋, I'm Aasritha Tadicherla</h1>
 <h3 align="center">An aspiring developer eager to embark on a journey in the dynamic world of technology.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="">
-
-<!--   
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
- -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60"
             height="60" /> </a>
-    <a href="/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="60" height="60" /> </a>
+    <a href="" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python" width="60" height="60" /> </a>
     <a href="/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
             width="60" height="60" /> </a>
