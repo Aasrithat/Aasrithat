@@ -17,9 +17,6 @@
     <a href="/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
             alt="cplusplus" width="60" height="60" /> </a>
-    <a href="" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="60" height="60" /> </a>
     <a href="/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
             width="60" height="60" /> </a>
@@ -30,48 +27,26 @@
     <a href="" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="60" height="60" /> </a> <!-- Moved CSS here -->
-    <a href="" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="60" height="60" /> </a> <!-- Moved JavaScript here -->
-    <br><br>
-    <a href="/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="60" height="60" /> </a>
-    <br><br>
-    <a href="/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="60" height="60" /> </a>
 
     
 </p>
-
-<h3 align="left">Digital Holopin Badges</h3>
-
-[![An image of @jiyaguptacs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jiyaguptacs)](https://holopin.io/@jiyaguptacs)
-
-
-
-
-
-
- <hr>
  
  # Github Activity📊:
  
  <table>
    <tr>
-     <td><img src="https://github-readme-stats.vercel.app/api?username=jiyagupta-cs&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyagupta-cs&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+     <td><img src="https://github-readme-stats.vercel.app/api?username=aasrithat&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasrithat&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
     </tr> 
 <!--     <tr>
-       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=jiyagupta-cs&theme=tokyonight"  display=block width=100% height=auto alt="3" >          </td>
+       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=aasrithat&theme=tokyonight"  display=block width=100% height=auto alt="3" >          </td>
    </tr> -->
  </table>
 
   <h3 align="center">Visitor Count</h3>
- <a align="center" href="https://profile-counter.glitch.me/{JiyaGupta-cs}/count.svg">
+ <a align="center" href="https://profile-counter.glitch.me/{aasrithat}/count.svg">
    
-   ![VisitorCount](https://profile-counter.glitch.me/{JiyaGupta-cs}/count.svg)  
+   ![VisitorCount](https://profile-counter.glitch.me/{aasrithat}/count.svg)  
    
  </a>
  
@@ -79,7 +54,7 @@
 
  <div align="center">
    
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JiyaGupta-cs&theme=flag-india&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aasrithat&theme=flag-india&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
    
  </div>
  
@@ -88,15 +63,15 @@
  # Productivity Stats📈:
  <table>
    <tr>
-     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JiyaGupta-cs&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aasrithat&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
     </tr> 
     <tr>
 <!--        <td>
          <a href="https://github.com/jiyagupta-cs/github-readme-activity-graph#gh-light-mode-only">
-          <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JiyaGupta-cs&theme=react&area=true&hide_border=true#gh-light-mode-only"                width="100%">
+          <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aasrithat&theme=react&area=true&hide_border=true#gh-light-mode-only"                width="100%">
          </a>
          <a href="https://github.com/jiyagupta-cs/github-readme-activity-graph#gh-dark-mode-only">
-           <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JiyaGupta-cs&theme=dracula&area=true&hide_border=true#gh-dark-mode-only"              width="100%">
+           <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aasrithat&theme=dracula&area=true&hide_border=true#gh-dark-mode-only"              width="100%">
          </a>
      </td> -->
    </td>
