@@ -1,35 +1,22 @@
-
-#  👋 Hi, I’m Aasritha Tadicherla
-
-- 🚀 Aspiring developer and technology enthusiast
-- 📚 Currently exploring the world of coding
-- 🌱 Constantly learning and building
-- 💻 Let's connect and create together
-- 👯 I’m looking to collaborate on DSA, React JS, Django
-- 📫 How to reach me https://www.linkedin.com/in/sri-satya-mounika-sangana-60a718215/
-
-# 🛠 &nbsp;Tech Stack
-
-- 💻 &nbsp;
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C&background-color:white)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-- 🛢 &nbsp;
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-  ![Django REST](https://img.shields.io/badge/-Django%20REST-009688?style=flat&logo=django)
-  ![MsSQL](https://img.shields.io/badge/-MsSQL-333333?style=flat&logo=mysql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
- 
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+<h1 align="center">Hi 👋, I'm Aasritha Tadicherla</h1>
+<h3 align="center">I am an aspiring developer eager to embark on a journey in the dynamic world of technology.</h3>
+<img align="right" alt="Coding" width=“600" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="">
 
 
-# My Stats
+- 🔭 I’m currently working on **HTML, CSS**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mounikasangana0126)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning **Django**
+
+- 📫 How to reach me **aasrithathadicherla@gmail.com**
+
+<h3 align=“center>Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/aasritha-tadicherla-2a00b6223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/aasritha-tadicherla-2a00b6223" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aasrithat&show_icons=true&locale=en" alt="aasrithat" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aasrithat&" alt="aasrithat" /></p>
