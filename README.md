@@ -29,7 +29,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="sql"
             width="50" height="50" /> </a>
     <a href="/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="sql"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="sql"
             width="50" height="50" /> </a>
 </p>
 <br></br>
