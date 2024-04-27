@@ -20,7 +20,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aasrithat&" alt="aasrithat" /></p>
 
 # My Stats
-[![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aasrithat&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aasrithat)](https://github.com/anuraghazra/github-readme-stats)
 
