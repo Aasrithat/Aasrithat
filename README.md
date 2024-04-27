@@ -22,10 +22,13 @@
             alt="css3" width="60" height="60" /> </a> 
     <br><br>
     <a href="/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="sql"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sql"
+            width="60" height="60" /> </a>
+<br></br>
+    <a href="/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="sql"
             width="60" height="60" /> </a>
 </p>
-<br></br>
 <br></br>
 
  # My Github Activity📊:
