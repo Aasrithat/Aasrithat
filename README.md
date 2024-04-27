@@ -21,11 +21,9 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="60" height="60" /> </a> <!-- Moved CSS here -->
     <br><br>
-    <a href="" target="_blank" rel="noreferrer">
-        <img src=""
-            alt="mssql" width="60" height="60" /><i class="fa-solid fa-database"></i> </a> <!-- Moved CSS here -->
-
-    
+  <a href="/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="java"
+            width="60" height="60" /> </a>
 </p>
 <br></br>
 <br></br>
