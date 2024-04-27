@@ -27,7 +27,7 @@
 <br></br>
     <a href="/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="sql"
-            width="50" height="50" /> </a>
+            width="60" height="60" /> </a>
     <a href="/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="sql"
             width="50" height="50" /> </a>
