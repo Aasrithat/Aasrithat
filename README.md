@@ -1,21 +1,104 @@
-<h1 align="center">Hi 👋, I'm Aasritha Tadicherla</h1>
-<h3 align="center">I am an aspiring developer eager to embark on a journey in the dynamic world of technology.</h3>
-<!-- <img align="right" alt="Coding" width=“400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt=""> -->
+<!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)  -->
+<h1 align="center">Hi 👋, I'm Jiya Gupta</h1>
+<h3 align="center">A passionate web developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
-- 🔭 I’m currently working on **HTML, CSS**
-
-- 🌱 I’m currently learning **Django**
-
-- 📫 How to reach me **aasrithathadicherla@gmail.com**
-
-<h3 align=“left">Connect with me:</h3>
+<!--   
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/aasritha-tadicherla-2a00b6223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/aasritha-tadicherla-2a00b6223" height="30" width="40" /></a>
 </p>
+ -->
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+    <a href="/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60"
+            height="60" /> </a>
+    <a href="/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+            alt="cplusplus" width="60" height="60" /> </a>
+    <a href="" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python" width="60" height="60" /> </a>
+    <a href="/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+            width="60" height="60" /> </a>
+    <br><br>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5" width="60" height="60" /> </a> <!-- Moved HTML here -->
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3" width="60" height="60" /> </a> <!-- Moved CSS here -->
+    <a href="" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript" width="60" height="60" /> </a> <!-- Moved JavaScript here -->
+    <br><br>
+    <a href="/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="react" width="60" height="60" /> </a>
+    <br><br>
+    <a href="/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            alt="bootstrap" width="60" height="60" /> </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aasrithat&show_icons=true&locale=en" alt="aasrithat" /></p>
+    
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aasrithat&" alt="aasrithat" /></p>
+<h3 align="left">Digital Holopin Badges</h3>
+
+[![An image of @jiyaguptacs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jiyaguptacs)](https://holopin.io/@jiyaguptacs)
+
+
+
+
+
+
+ <hr>
+ 
+ # Github Activity📊:
+ 
+ <table>
+   <tr>
+     <td><img src="https://github-readme-stats.vercel.app/api?username=jiyagupta-cs&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyagupta-cs&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+    </tr> 
+<!--     <tr>
+       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=jiyagupta-cs&theme=tokyonight"  display=block width=100% height=auto alt="3" >          </td>
+   </tr> -->
+ </table>
+
+  <h3 align="center">Visitor Count</h3>
+ <a align="center" href="https://profile-counter.glitch.me/{JiyaGupta-cs}/count.svg">
+   
+   ![VisitorCount](https://profile-counter.glitch.me/{JiyaGupta-cs}/count.svg)  
+   
+ </a>
+ 
+ <hr>
+
+ <div align="center">
+   
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JiyaGupta-cs&theme=flag-india&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+   
+ </div>
+ 
+ <hr> 
+ 
+ # Productivity Stats📈:
+ <table>
+   <tr>
+     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JiyaGupta-cs&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+    </tr> 
+    <tr>
+<!--        <td>
+         <a href="https://github.com/jiyagupta-cs/github-readme-activity-graph#gh-light-mode-only">
+          <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JiyaGupta-cs&theme=react&area=true&hide_border=true#gh-light-mode-only"                width="100%">
+         </a>
+         <a href="https://github.com/jiyagupta-cs/github-readme-activity-graph#gh-dark-mode-only">
+           <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JiyaGupta-cs&theme=dracula&area=true&hide_border=true#gh-dark-mode-only"              width="100%">
+         </a>
+     </td> -->
+   </td>
+   </tr>
+ </table>
